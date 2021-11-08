@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "hi git-hub" << endl;
+	cout << "¿¨" << endl;
+	cout << "¿Ö¾ÈµÊ" << endl;
 
 }
